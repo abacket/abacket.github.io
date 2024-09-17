@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abacket.github.io/sitemap.html.gz
+Sitemap: https://abacket.github.io/app/sitemap.html.gz
+Sitemap: https://abacket.github.io/assets/sitemap.html.gz
+Sitemap: https://abacket.github.io/css/sitemap.html.gz
+Sitemap: https://abacket.github.io/includes/sitemap.html.gz
+Sitemap: https://abacket.github.io/item/sitemap.html.gz
+Sitemap: https://abacket.github.io/src/sitemap.html.gz
